@@ -1,0 +1,8 @@
+2021-10-11 01:05:10.956 +01:00 [INF] Application Is Starting
+2021-10-11 01:05:16.879 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-10-11 01:05:16.882 +01:00 [INF] Hosting environment: Development
+2021-10-11 01:05:16.882 +01:00 [INF] Content root path: C:\Users\UNITY INTERN\source\repos\HotelListing\HotelListing
+2021-10-11 01:05:16.982 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44316/swagger/index.html - -
+2021-10-11 01:05:17.314 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44316/swagger/index.html - - - 200 - text/html;charset=utf-8 336.3283ms
+2021-10-11 01:05:17.737 +01:00 [INF] Request starting HTTP/2 GET https://localhost:44316/swagger/v1/swagger.json - -
+2021-10-11 01:05:17.805 +01:00 [INF] Request finished HTTP/2 GET https://localhost:44316/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 68.0517ms
